@@ -1,0 +1,17 @@
+# MyTokenWallet
+
+> MyTokenWallet is a self-custody wallet website with wallet safety information, asset guides, and an educational journal.
+
+## Main pages
+
+- [Home](/): Product overview and app preview.
+- [Wallet download](/wallet-download): iOS and Android setup details.
+- [Security](/security): Self-custody and wallet safety.
+- [Asset operations](/asset-operations): Information about sending, receiving, and exploring assets.
+- [Explore](/explore): Introductory digital asset topics.
+- [Journal](/blog): Published guides and updates.
+
+## Discovery
+
+- [XML sitemap](/sitemap.xml): Current public pages and published articles.
+- [Text sitemap](/sitemap.txt): Plain text list of public page URLs.
